@@ -1,5 +1,5 @@
 cask "gitstatus" do
-  version "0.4"
+  version "0.5"
   sha256 :no_check
 
   url "https://www.dragster.dev/gitstatus/gitstatus-#{version}.dmg"
